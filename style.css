@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:rgb(0, 110, 255);
+    margin: 20px;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+h1{
+    color: red;
+}
+
+footer{
+    background-color: navy;
+    color: yellow
+}
+
+nav a{
+    color: white;
+    background-color: navy;
+    border: 1px solid navy;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+nav{
+    border: 1px solid navy;
+    margin: 15px; 
+    padding: 15px;
+    border-radius: 10px; 
+}
+
+.fee{
+    border: 4px solid navy;
+    border-radius: 10px;
+    padding: 5px; 
+}
+
+main h2{
+    color: navy;
+}
+
+main{
+    font-size: 20px;
+    margin: 5px;
+}
